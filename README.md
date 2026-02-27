@@ -18,7 +18,7 @@
 
 ### 21 Days SQL Coding Challenges
 - Description: Practicing core SQL skills through 21‑day challenge: wrote 50+ queries using clauses, joins, CTEs, and ranking functions on real‑world datasets. Focused on clean, efficient code and reusable patterns for data analysis.
-- Links:<a href="https://github.com/swapniltayde09/21-Days-SQL-Coding-Challenges" target="_blank">21-Days-SQL-Coding-Challenges</a>
+- Links: <a href="https://github.com/swapniltayde09/21-Days-SQL-Coding-Challenges" target="_blank">21-Days-SQL-Coding-Challenges</a>
 
 # Education
 - IGNOU
